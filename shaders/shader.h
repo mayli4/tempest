@@ -1,0 +1,2 @@
+#define ENABLE_SHADOWS
+#define REFLECTIONS
